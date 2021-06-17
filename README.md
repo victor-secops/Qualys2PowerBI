@@ -2,7 +2,7 @@
 Simple Script to Integrate Qualys With PowerBI using API
 
 # Available Endpoints
-Vulnerability API Format xml
+Detection API Format xml
 https://qualysapi.qg3.apps.qualys.com/api/2.0/fo/asset/host/vm/detection/
 
 Report API format csv string
