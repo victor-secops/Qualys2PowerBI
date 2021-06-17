@@ -6,7 +6,7 @@ Vulnerability API Format xml
 https://qualysapi.qg3.apps.qualys.com/api/2.0/fo/asset/host/vm/detection/
 
 Report API format csv string
-https://qualysapi.qg3.apps.qualys.com/api/2.0/fo/report/?action=fetch&id=4337431
+https://qualysapi.qg3.apps.qualys.com/api/2.0/fo/report/?action=fetch&id=<id int>
 
 List knowledge by date API format xml
 https://qualysapi.qg3.apps.qualys.com/api/2.0/fo/knowledge_base/vuln/?action=list&published_after=<AAAA-MM-DD>
